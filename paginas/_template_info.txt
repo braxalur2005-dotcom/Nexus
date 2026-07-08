@@ -1,0 +1,4 @@
+Estas páginas son solo EJEMPLOS de relleno para que los botones "Ver Detalles"
+funcionen desde ya. Sustituye cada archivo .html de esta carpeta por la página
+real que ya hiciste para ese proyecto (o cambia el link en components/Catalog.js
+por la URL real si tu página vive en otro sitio/dominio).
