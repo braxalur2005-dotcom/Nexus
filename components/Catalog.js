@@ -37,7 +37,7 @@ function Catalog() {
             title: "Portafolio Creativo",
             description: "Diseño minimalista para artistas, fotógrafos y diseñadores que buscan mostrar su trabajo.",
             image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-            pageUrl: "https://braxalur2005-dotcom.github.io/Portafolio/"
+            pageUrl: "https://braxalur2005-dotcom.github.io/Portafolio1/"
         },
         {
             id: 6,
